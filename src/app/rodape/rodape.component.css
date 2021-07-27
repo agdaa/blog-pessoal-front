@@ -1,0 +1,17 @@
+ul.redes-sociais{
+    list-style: none;
+    padding: 0;
+}
+
+ul.redes-sociais li{
+    display: inline;
+    padding: 5px;
+    margin: 0;
+}
+
+.fab{
+    font-size: 35pt;
+    color: white;
+    padding: 10px;
+}
+
