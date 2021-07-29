@@ -1,0 +1,17 @@
+#img-bg {
+    background-image: url('https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80');
+    min-height: 969px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.temporizadorCadastrar:hover{
+    background-color: white;
+    transition-duration: 1s;
+}
+.temporizadorCancelar:hover{
+    color: #dc3545;
+    background-color: white;
+    transition-duration: 1s;
+}
