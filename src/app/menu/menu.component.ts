@@ -9,6 +9,7 @@ import { Router } from '@angular/router';
 })
 export class MenuComponent implements OnInit {
 
+  id = environment.id
   nome = environment.nome
   foto = environment.foto
 
